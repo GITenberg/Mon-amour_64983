@@ -1,5 +1,8 @@
 _repo: Mon-amour_64983
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64983-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64983#Mon-amour
 gutenberg_issued: '2021-04-03'
 gutenberg_type: Text
 identifiers:
